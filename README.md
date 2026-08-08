@@ -16,6 +16,6 @@
 
 > [!NOTE]
 > The entire code was built on **Arch Linux**, using shell scripts, so you must use **Linux/Mac** or use **WSL** :: Remember to give permissions before executing the code!
-> [![Hyprland Wiki] (https://img.shields.io/badge/Hyprland-58E1FF.svg?style=for-the-badge&logo=Hyprland&logoColor=black)](https://wiki.hypr.land/)
+> [![Hyprland Wiki](https://img.shields.io/badge/Hyprland-58E1FF.svg?style=for-the-badge&logo=Hyprland&logoColor=black)](https://wiki.hypr.land/)
 
 <hr>
