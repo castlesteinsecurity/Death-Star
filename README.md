@@ -16,6 +16,11 @@
 
 > [!NOTE]
 > The entire code was built on **Arch Linux**, using shell scripts, so you must use **Linux/Mac** or use **WSL** :: Remember to give permissions before executing the code!
-> [![Hyprland Wiki](https://img.shields.io/badge/Hyprland-58E1FF.svg?style=for-the-badge&logo=Hyprland&logoColor=black)](https://wiki.hypr.land/)
+
+<hr>
+
+<h2>For more informations about the Distro config<>
+
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white)](https://wiki.archlinux.org/title/Main_page)
 
 <hr>
