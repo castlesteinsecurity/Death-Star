@@ -6,7 +6,7 @@ sleep 1
 
 org='\033[0;32m'
 nc='\033[0m'
-text="Made by FrankensteinSec"
+text="Made by username"
 
 echo -e '\n\n\n'
 termwidth=$(tput cols)
