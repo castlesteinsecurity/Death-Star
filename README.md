@@ -6,7 +6,7 @@
 
 <hr>
 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6rW703OtIKqZ8i85pT49nK?si=ef35c8c678114830)                  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/euoffsec)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6rW703OtIKqZ8i85pT49nK?si=ef35c8c678114830)    <br>    [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/euoffsec)
 
 </div>
 
@@ -19,7 +19,9 @@
 
 <hr>
 
-<h2>For more informations about the Distro config<>
+<h2>For more informations about the Distro config<h2>
+
+<br>
 
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white)](https://wiki.archlinux.org/title/Main_page)
 
